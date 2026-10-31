@@ -4,6 +4,6 @@ function greet(name) {
 
 module.exports = greet;
 
-if (requie.main === module) {
-  console.log(greet("kholud"));
-}
+// if (requie.main === module) {
+//   console.log(greet("kholud"));
+// }
